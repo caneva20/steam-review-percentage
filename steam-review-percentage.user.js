@@ -6,6 +6,8 @@
 // @version     1.0.0
 // @author      caneva20
 // @description Add review percentage beside review summary on app pages
+// @homepageURL https://github.com/caneva20/steam-review-percentage
+// @downloadURL https://github.com/caneva20/steam-review-percentage/raw/refs/heads/main/steam-review-percentage.user.js
 // ==/UserScript==
 
 (function () {
